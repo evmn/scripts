@@ -49,5 +49,4 @@ http://audiocdn.economist.com/sites/default/files/AudioArchive/2018/20181201/Iss
 http://audiocdn.economist.com/sites/default/files/AudioArchive/2018/20181208/Issue_9121_20181208_The_Economist_Full_edition.zip
 http://audiocdn.economist.com/sites/default/files/AudioArchive/2018/20181215/Issue_9122_20181215_The_Economist_Full_edition.zip
 http://audiocdn.economist.com/sites/default/files/AudioArchive/2018/20181222/Issue_9123_20181222_The_Economist_Full_edition.zip
-http://audiocdn.economist.com/sites/default/files/AudioArchive/2018/20181229/Issue_9124_20181229_The_Economist_Full_edition.zip
-http://audiocdn.economist.com/sites/default/files/AudioArchive/2019/20190105/Issue_9125_20190105_The_Economist_Full_edition.zip
+http://audiocdn.economist.com/sites/default/files/AudioArchive/2019/20190105/Issue_9124_20190105_The_Economist_Full_edition.zip
