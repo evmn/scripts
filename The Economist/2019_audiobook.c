@@ -1,19 +1,19 @@
 /*
  *    The Economist Audio Edition Download Links
  *
- *    http://audiocdn.economist.com/sites/default/files/AudioArchive/2018/20180106/Issue_9073_20180106_The_Economist_Full_edition.zip
+ *    http://audiocdn.economist.com/sites/default/files/AudioArchive/2019/20190105/Issue_9124_20190105_The_Economist_Full_edition.zip
 
 */
 
 #include <stdio.h>
 #include <time.h>
-#define YEAR 2018
+#define YEAR 2019
 #define LOOP    52
 int main()
 {
     int months[12] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
     int year_day = 6;
-    int series = 9073;
+    int series = 9124;
     int weeks = 0, j = 0;
     int this_month = months[j];
     int last_month = 0;
