@@ -12,7 +12,7 @@
 int main()
 {
     int months[12] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
-    int year_day = 6;
+    int year_day = 5;
     int series = 9124;
     int weeks = 0, j = 0;
     int this_month = months[j];
